@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-fkdw5l.aiopenplatform.com/sitemap.xml
